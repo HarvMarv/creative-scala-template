@@ -23,6 +23,7 @@ project/plugins/project/
 .bloop/
 .ammonite/
 metals.sbt
+.bsp/
 
 # other
 .sbt-hydra-history
